@@ -10,3 +10,4 @@ Central, public instructions for Codex used by developers in VS Code and Intelli
 - `standards/security.md` — baseline security expectations.
 - `standards/testing.md` — test quality and verification.
 - `standards/code-review.md` — review checklist and output format.
+- `skills/README.md` — usage of skills
